@@ -1,1 +1,2 @@
-# raining
+# Digital House training
+Doing a simple login at the class...
